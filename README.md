@@ -1,6 +1,6 @@
 
 <meta http-equiv="refresh" content="0; url=https://repo.github.io/folder/index.html">
-# Bootcamp Project 1
+## Bootcamp Project 1
 
 ## Description
 
