@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 Clone the repository: git clone git@github.com:loganrehberg/project1.git
 Navigate to the project directory: cd project1
 Open the index.html file in your preferred web browser.
-Alternatively, you can simply visit the live version of the project at project-url.
+Alternatively, you can simply visit the live version of the project at [project-url](https://loganrehberg.github.io/project1/).
 
 ## Usage
 Once you open the project in your web browser, you can navigate through the different sections using the navigation bar. Feel free to explore the interactive elements, view multimedia content, and interact with the forms. If you encounter any issues or have feedback, please let me know by creating an issue in the repository.
