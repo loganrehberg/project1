@@ -11,6 +11,7 @@ This is the first project of the NU bootcamp. This project had the objective of 
 Provide instructions and examples for use. Include screenshots as needed.
 
 https://imgur.com/a/j801QQQ This is a screenshot of the landing page
+
 https://imgur.com/a/BH5MY5H This is a screenshot of ChromeDevTools 
 
 ## Credits
